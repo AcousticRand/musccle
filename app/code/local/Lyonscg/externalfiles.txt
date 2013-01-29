@@ -1,0 +1,20 @@
+/**
+ * Lyonscg Musccl
+ *
+ * @category Lyonscg
+ * @package Lyonscg_Musccl
+ * @copyright Copyright (c) 2013 Lyons Consulting Group (www.lyonscg.com)
+ * @author Rand Thacker (rthacker@lyonscg.com)
+ */
+
+### Module Files Outside this Directory
+# Module XML File
+app/etc/modules/Lyonscg_Musccl.xml
+# Frontend Template Files
+
+# Adminhtml Template Files
+
+# Frontend Skin Files
+
+# Other files
+shell/cache_clear.php
