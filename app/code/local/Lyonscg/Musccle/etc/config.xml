@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Lyonscg_Musccle>
+            <version>0.1.0</version>
+        </Lyonscg_Musccle>
+    </modules>
+    <global>
+        <models>
+            <lyonscg_musccle>
+                <class>Lyonscg_Musccle_Model</class>
+            </lyonscg_musccle>
+        </models>
+        <blocks>
+            <lyonscg_musccle>
+                <class>Lyonscg_Musccle_Block</class>
+            </lyonscg_musccle>
+        </blocks>
+        <helpers>
+            <lyonscg_musccle>
+                <class>Lyonscg_Musccle_Helper</class>
+            </lyonscg_musccle>
+        </helpers>
+    </global>
+</config>
