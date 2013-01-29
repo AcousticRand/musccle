@@ -10,9 +10,12 @@
 ### Module Files Outside this Directory
 # Module XML File
 app/etc/modules/Lyonscg_Musccle.xml
+
 # Frontend Template Files
 
 # Adminhtml Template Files
+app/design/adminhtml/default/default/layout/musccle.xml
+app/design/adminhtml/default/default/template/lyonscg/musccle/cacheinfo.phtml
 
 # Frontend Skin Files
 

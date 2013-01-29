@@ -22,4 +22,28 @@
             </lyonscg_musccle>
         </helpers>
     </global>
+    <musccle>
+        <ssh>
+            <identity>
+                <username><![CDATA[cacheclear]]></username>
+                <path><![CDATA[/var/www/.ssh/id_rsa]]></path>
+            </identity>
+            <commands>
+                <command><![CDATA[/var/www/html/shell/cache_clear.php]]></command>
+            </commands>
+        </ssh>
+        <servers>
+            <server><![CDATA[127.0.0.1]]></server>
+            <server><![CDATA[127.0.0.1]]></server>
+        </servers>
+    </musccle>
+    <adminhtml>
+        <layout>
+            <updates>
+                <lyonscg_musccle>
+                    <file>musccle.xml</file>
+                </lyonscg_musccle>
+            </updates>
+        </layout>
+    </adminhtml>
 </config>

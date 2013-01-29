@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * LyonsCG MUSCCLE (Multi-Server Cache Clear)
+ *
+ * @category    design
+ * @package     default_default
+ * @copyright   Copyright (c) 2013 Lyons Consulting Group
+ */
+-->
+<layout>
+    <adminhtml_cache_index>
+        <reference name="content">
+            <block type="lyonscg_musccle/adminhtml_cache_header" before="-" name="musccle_cache_header"
+                   template="lyonscg/musccle/cacheinfo.phtml"/>
+        </reference>
+    </adminhtml_cache_index>
+</layout>
