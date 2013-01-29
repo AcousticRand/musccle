@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<config>
-    <modules>
-        <Lyonscg_Musccl>
-            <active>true</active>
-            <codePool>local</codePool>
-        </Lyonscg_Musccl>
-    </modules>
-</config>
