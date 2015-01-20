@@ -14,4 +14,3 @@ The module will rely on:
 --executing a command on each server that will implement the proper Magento
   way to clear the given cache type(s).
 
-Testing123
